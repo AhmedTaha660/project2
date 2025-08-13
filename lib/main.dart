@@ -43,6 +43,7 @@ class CoffeeStartPage extends StatelessWidget {
               padding: const EdgeInsets.all(20),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
                     "Time for a coffee break....",
